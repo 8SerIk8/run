@@ -1,1 +1,1 @@
-# run
+Print("hello World")
